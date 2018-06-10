@@ -48,7 +48,7 @@
     "matchdep": "~2.0.0"
   },
   "engines": {
-    "node": ">=8.9"
+    "node": ">=6.9"
   },
   "scripts": {
     "test": "grunt --verbose",
